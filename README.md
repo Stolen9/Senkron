@@ -1,4 +1,4 @@
-# Senkron — Third-party sources
+# Senkron
 
 ## Türkçe
 
